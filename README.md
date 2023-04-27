@@ -55,7 +55,7 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 </p>
 <h2>Model Prediction</h2>
 <p align="center">
-<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Output.png" width="900" height="1100">
+<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Output.png" width="850" height="1100">
 </p>
 <h2>Conclusion</h2>  
 <p>In this project, I have created an Attention U-Net model for correctly segmenting XRM (tomography) scan of a sandstone cylinder to identify the regions of clay, quartz, air, and pyrite.</p>  
