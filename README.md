@@ -54,5 +54,12 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <p align="center">
 <img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Accuracy.png" width="1000" height="350">
 </p>
+<h2>Model Prediction</h2>
+<p align="center">
+<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Output.png="800" height="1200">
+</p>
+<h2>Conclusion</h2>  
+<p>In this project, I have created an Attention U-Net model for correctly segmenting breast cancer from ultrasound images.</p>  
+
 
 
