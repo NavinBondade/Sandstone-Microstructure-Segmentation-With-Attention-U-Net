@@ -13,7 +13,7 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
   <li>Seaborn</li>
   <li>Sklearn</li>
 </ul>
-<h2>Data Visualization</h2>
+<h2>Dataset Visualization</h2>
 <p align="center">
 <img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/dataset_gist_ncar.png" width="750" height="500">
 </p>
