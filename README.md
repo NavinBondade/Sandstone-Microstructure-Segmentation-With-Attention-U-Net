@@ -30,3 +30,8 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <p align="center">
 <img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/dataset_Quartz.png" width="750" height="500">
 </p>
+<h2>What is Attention U-Net?</h2>
+<p>Attention is an important aspect of any computer vision task where we need to focus on specific regions in an image. Regarding image segmentation, attention is a massive help in highlighting the important regions of the image. Due to this the model converges much faster and has better generalization capabilitie</p>
+<p>Here in Attention UNET, the author proposes a novel spatial attention mechanism called Attention Gate (AG). The Attention Gate helps to focus on target structures of varying shapes and sizes in medical images.The models trained with Attention Gate implicitly learn to suppress irrelevant regions in an input image while highlighting salient features useful for a specific task. This enables us to eliminate the necessity of using any explicit localization modules.</p>
+<p>The Attention Gate can be easily integrated into any existing segmentation architecture such as U-Net with a minimal increase in the parameters. This increase in parameters boosts the model’s sensitivity and accuracy.</p>
+
