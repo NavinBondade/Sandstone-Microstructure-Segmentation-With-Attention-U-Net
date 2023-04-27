@@ -40,10 +40,6 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <p align="center">
 <img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/model_architecture.png">
 </p>
-<h2>Model Architecture</h2>  
-<p align="center">
-<img src="imagelink">
-</p>
 <h2>Model Training & Testing</h2>   
 <p>On the training dataset, the loss was 0.0356, the accuracy was 98%, and the IoU score was 0.5747. Whereas on the testing dataset, the loss was 0.1106 the accuracy was 97%, and the IoU score was 0.6065.</p>
 <h4>Model Loss:</h4>   
@@ -56,7 +52,7 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 </p>
 <h2>Model Prediction</h2>
 <p align="center">
-<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Output.png" width="900" height="1200">
+<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Output.png" width="900" height="1100">
 </p>
 <h2>Conclusion</h2>  
 <p>In this project, I have created an Attention U-Net model for correctly segmenting breast cancer from ultrasound images.</p>  
