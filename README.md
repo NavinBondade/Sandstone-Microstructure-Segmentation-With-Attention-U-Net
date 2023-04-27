@@ -37,7 +37,7 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <h2>Model Details</h2>
 <p>The model has been trained on a sandstone microstructure dataset for 150 epochs. The model used categorical cross entropy as a loss function since it's a muti-class segmentation problem. Stochastic gradient descent has been used as the optimizer. Below is the model architecture.</p>
 <p align="center">
-<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/model_architecture.png" width="750" height="500">
+<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/model_architecture.png">
 </p>
 
 
