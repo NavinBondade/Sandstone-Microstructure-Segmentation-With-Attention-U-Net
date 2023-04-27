@@ -48,11 +48,11 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <p>On the training dataset, the loss was 0.0356, the accuracy was 98%, and the IoU score was 0.5747. Whereas on the testing dataset, the loss was 0.1106 the accuracy was 97%, and the IoU score was 0.6065.</p>
 <h4>Model Loss:</h4>   
 <p align="center">
-<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Loss.png" width="1000" height="400">
+<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Loss.png" width="1000" height="350">
 </p>
 <h4>Model Accuracy:</h4>  
 <p align="center">
-<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Accuracy.png" width="1000" height="400">
+<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Accuracy.png" width="1000" height="350">
 </p>
 
 
