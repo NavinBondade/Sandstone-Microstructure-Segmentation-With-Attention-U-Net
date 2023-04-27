@@ -17,6 +17,7 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <p align="center">
 <img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/dataset_gist_ncar.png" width="750" height="500">
 </p>
+<h2>Segmentation Regions Visualization</h2>
 <p align="center">
 <img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/dataset_Background_Air.png" width="750" height="500">
 </p>
