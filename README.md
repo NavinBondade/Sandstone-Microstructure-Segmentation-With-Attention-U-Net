@@ -35,7 +35,9 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <p>Here in Attention UNET, the author proposes a novel spatial attention mechanism called Attention Gate (AG). The Attention Gate helps to focus on target structures of varying shapes and sizes in medical images.The models trained with Attention Gate implicitly learn to suppress irrelevant regions in an input image while highlighting salient features useful for a specific task. This enables us to eliminate the necessity of using any explicit localization modules.</p>
 <p>The Attention Gate can be easily integrated into any existing segmentation architecture such as U-Net with a minimal increase in the parameters. This increase in parameters boosts the model’s sensitivity and accuracy.</p>
 <h2>Model Details</h2>
-<p>The model has been trained on a sandstone microstructure dataset for 150 epochs. The model used categorical cross entropy as a loss function since it's a muti-class segmentation problem. Stochastic gradient descent has been used as the optimizer. Below is the model architecture.</p>
+<p>The model has been trained on a sandstone microstructure dataset for 150 epochs. The model used categorical cross entropy as a loss function since it's a muti-class segmentation problem. Stochastic gradient descent has been used as the optimizer.</p>
+<h2>Model Architecture</h2>  
+<p>Below is the model architecture.</p>
 <p align="center">
 <img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/model_architecture.png">
 </p>
