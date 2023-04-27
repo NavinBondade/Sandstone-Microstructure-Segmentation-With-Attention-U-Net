@@ -1,7 +1,7 @@
 # Sandstone Microstructure Segmentation With Attention U-Net
 <p align="center">
-</p>
 <img src="https://interminerals.com/images/aggregates/_1200x630_crop_center-center_82_none/Jura-2.jpg?mtime=1553560515">
+</p>
 <p>Sandstone is a clastic sedimentary rock composed mainly of sand-sized (0.0625 to 2 mm) silicate grains. It comprises about 20–25% of all sedimentary rocks. In this project, I have trained the Attention U-Net deep learning model for performing image segmentation of XRM (tomography) scan of a sandstone cylinder of size about 2 mm
 diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <h2>Libraries Used</h2>
@@ -34,6 +34,9 @@ diameter to identify the regions of clay, quartz, air, and pyrite. </p>
 <p>Attention is an important aspect of any computer vision task where we need to focus on specific regions in an image. Regarding image segmentation, attention is a massive help in highlighting the important regions of the image. Due to this the model converges much faster and has better generalization capabilitie</p>
 <p>Here in Attention UNET, the author proposes a novel spatial attention mechanism called Attention Gate (AG). The Attention Gate helps to focus on target structures of varying shapes and sizes in medical images.The models trained with Attention Gate implicitly learn to suppress irrelevant regions in an input image while highlighting salient features useful for a specific task. This enables us to eliminate the necessity of using any explicit localization modules.</p>
 <p>The Attention Gate can be easily integrated into any existing segmentation architecture such as U-Net with a minimal increase in the parameters. This increase in parameters boosts the model’s sensitivity and accuracy.</p>
+<p align="center">
+<img src="https://idiotdeveloper.com/wp-content/uploads/2021/06/attention_unet-compressed-2.jpg" width="750" height="500">
+</p>
 <h2>Model Details</h2>
 <p>The model has been trained on a sandstone microstructure dataset for 150 epochs. The model used categorical cross entropy as a loss function since it's a muti-class segmentation problem. Stochastic gradient descent has been used as the optimizer.</p>
 <h2>Model Architecture</h2>  
