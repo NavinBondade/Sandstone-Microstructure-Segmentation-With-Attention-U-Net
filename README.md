@@ -1,1 +1,1 @@
-# Sandstone-Segmentation-With-Attention-U-Net
+# Sandstone Microstructure Segmentation With Attention U-Net
