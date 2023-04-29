@@ -1,6 +1,6 @@
 # Sandstone Microstructure Segmentation With Attention U-Net
 <p align="center">
-<a href="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Notebook/Sandstone_Segmentation.ipynb" target="_blank">
+<a href="https://nbviewer.org/github/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Notebook/Sandstone_Segmentation.ipynb" target="_blank">
   <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
 </a>
 </p>
